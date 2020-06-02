@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">juniors</string>
+
+    <string-array name="Companies">
+        <item>ZOHO</item>
+        <item>CTS</item>
+        <item>ACCENTURE</item>
+        <item>PRODAPT</item>
+        <item>TCS</item>
+        <item>MR.COOPER</item>
+        <item>WIPRO</item>
+        <item>INFOSYS</item>
+        <item>BNP</item>
+        <item>ECON</item>
+        <item>HEXAWARE</item>
+        <item>NEXTGEN</item>
+        <item>OTHERS</item>
+    </string-array>
+
+    <string-array name="Year">
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+        <item>2027</item>
+
+    </string-array>
+
+</resources>

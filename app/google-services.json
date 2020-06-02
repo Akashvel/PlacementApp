@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "777168571899",
+    "firebase_url": "https://sroom-2e499.firebaseio.com",
+    "project_id": "sroom-2e499",
+    "storage_bucket": "sroom-2e499.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777168571899:android:649edc604a186f54574f5e",
+        "android_client_info": {
+          "package_name": "com.example.juniors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777168571899-smqj1lodcf65lda000dog0u1t998gj71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.juniors",
+            "certificate_hash": "442750c2613ae396a15b7cb469e44e2dece3015d"
+          }
+        },
+        {
+          "client_id": "777168571899-uqelmq3k82vrl5bmbd6ng95mb42lveli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXdvuNlbMgRIyLmC8MsaOvZ3Rn5AGetjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777168571899-uqelmq3k82vrl5bmbd6ng95mb42lveli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
